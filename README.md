@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzureSky0
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently completing my BSc in computer science
+- 🌱 I have completed my BSc in computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Gmail .. akshatsahu007@gmail.com
 
