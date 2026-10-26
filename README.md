@@ -28,6 +28,9 @@ result pointing to its page, entirely offline.
 | Project | What it is | Built with |
 |---|---|---|
 | [VS Appointments](https://github.com/AzureSky0/vs-appointments) | An offline booking app for a makeup studio: installs on a phone's home screen, no login or server, with a calendar, reminders and backups | HTML, JavaScript (PWA) |
+| [Dementia Face Assistant](https://github.com/AzureSky0/dementia-face-assistant) | A webcam app that helps people living with dementia recognise who is in front of them: it shows each person's relation and last visit, and keeps track of strangers who return | Python, OpenCV, face_recognition |
+| [Gesture Virtual Window](https://github.com/AzureSky0/gesture-virtual-window) | A webcam interface controlled by hand gestures, with face-recognition login, face detection and a touch-your-face game | Python, OpenCV, MediaPipe |
+| [CV Mini Projects](https://github.com/AzureSky0/cv-mini-projects) | Small real-time computer vision projects: gesture volume control, object detection and hand tracking | Python, OpenCV, MediaPipe |
 | [DipTool](https://github.com/AzureSky0/DipTool) | An interactive app for learning digital image processing by seeing each technique's effect | Python |
 | [DSL-Tool](https://github.com/AzureSky0/DSL-Tool) | An interactive app for learning data science concepts through visualisation | Python |
 | [Algorithms](https://github.com/AzureSky0/Algorithms) | A collection of algorithms I have studied and implemented | Python |
@@ -37,4 +40,5 @@ result pointing to its page, entirely offline.
 - **Languages:** Python · JavaScript · HTML/CSS · SQL
 - **Desktop and UI:** PySide6 (Qt) · Tkinter
 - **Data and search:** SQLite (FTS5, sqlite-vec) · SQLAlchemy · Alembic · ONNX Runtime / fastembed
+- **Computer vision:** OpenCV · MediaPipe · dlib / face_recognition
 - **Quality:** pytest · ruff · mypy · Git and GitHub
